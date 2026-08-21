@@ -1,0 +1,22 @@
+{
+  "name": "maya-kin-engine",
+  "version": "1.0.0",
+  "description": "Maya calendar engine (Dreamspell 13 Moon + Classic GMT 584283) — zero-dependency, 23 frozen test vectors",
+  "main": "maya_engine.js",
+  "scripts": {
+    "test": "node tests/run.mjs"
+  },
+  "keywords": [
+    "maya",
+    "dreamspell",
+    "kin",
+    "tzolkin",
+    "long-count",
+    "13-moon",
+    "calendar"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  }
+}
